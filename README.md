@@ -1,1 +1,3 @@
-# Course-grabbing-script
+# HUBU抢课脚本（施工中）⚒︎
+简介：该项目是通过模拟鼠标点击实现快速抢课的JavaScript脚本。
+详细使用教程：
